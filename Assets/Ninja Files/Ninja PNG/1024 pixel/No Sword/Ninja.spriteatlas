@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ninja
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 129eae3ff1672474db74bd4fe919402b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9e57dec09042ee34b8f17f8fc3c953cf, type: 3}
+  - {fileID: 21300000, guid: fae49ff079cca9e40bb4acaee9b278d8, type: 3}
+  - {fileID: 21300000, guid: 24c4e772e0c09814e90e582c88359dad, type: 3}
+  - {fileID: 21300000, guid: df23b5732b336f544939f1c92853620f, type: 3}
+  - {fileID: 21300000, guid: 8a121a14467840b4d96d6763be354870, type: 3}
+  - {fileID: 21300000, guid: 449251c49b0d19d4890225d0d611b7c1, type: 3}
+  - {fileID: 21300000, guid: 1efa72f442ed5964cab4b8eb34628aa2, type: 3}
+  - {fileID: 21300000, guid: a15ad2258fb4b2d459776c24ecf2e5ca, type: 3}
+  - {fileID: 21300000, guid: fd6c6ab5f0c0d5241957811446fd3c62, type: 3}
+  - {fileID: 21300000, guid: 8a9003c634f061240b70ebefcdb72d4c, type: 3}
+  - {fileID: 21300000, guid: cee0f3d723836fb45aff84dd2bc4b349, type: 3}
+  - {fileID: 21300000, guid: b5e135e75e1013f4eb5264f2fca02f21, type: 3}
+  - {fileID: 21300000, guid: 162e56a8bf504ec4e86180b2fb2943ad, type: 3}
+  - {fileID: 21300000, guid: acc03699cdfa34648b96651fe196826c, type: 3}
+  - {fileID: 21300000, guid: dea3765aa08cf7449918a03f8d173e57, type: 3}
+  - {fileID: 21300000, guid: 82ac5d7acc102cc41b01f7d8f442e486, type: 3}
+  - {fileID: 21300000, guid: 0421213b3c5d63d4b8176e6468db6bc6, type: 3}
+  - {fileID: 21300000, guid: 5ac71f6b78966c24f9cb2df992418922, type: 3}
+  - {fileID: 21300000, guid: 402f1a8b033934a4881551f476725a87, type: 3}
+  - {fileID: 21300000, guid: 7142df2c612491f4282ccd81c5059b40, type: 3}
+  - {fileID: 21300000, guid: 79fdacfc01a6d994fb8da9d99f7849c8, type: 3}
+  - {fileID: 21300000, guid: dfb15cede197f504aa0f707777271d4c, type: 3}
+  - {fileID: 21300000, guid: 39ff9e1e415d68e4ea9dd713f8371a9a, type: 3}
+  - {fileID: 21300000, guid: bb55c35ef06ae0f44afa74154a63bbfe, type: 3}
+  - {fileID: 21300000, guid: c3707bdf883c10d40b955bd68cf881fc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SNinja_nosword_crouchdash 1
+  - SNinja_nosword_run 09
+  - SNinja_nosword_run 02
+  - SNinja_nosword_run 05
+  - SNinja_nosword_idle 2
+  - SNinja_nosword_crouch 1
+  - SNinja_nosword_crouch 2
+  - SNinja_nosword_run 04
+  - SNinja_nosword_run 08
+  - SNinja_nosword_run 11
+  - SNinja_nosword_idle 1
+  - SNinja_nosword_jump 2
+  - SNinja_nosword_idle 3
+  - SNinja_nosword_jump 1
+  - SNinja_nosword_idle 5
+  - SNinja_nosword_idle 6
+  - SNinja_nosword_idle 4
+  - SNinja_nosword_run 07
+  - SNinja_nosword_run 03
+  - SNinja_nosword_run 06
+  - SNinja_nosword_crouchdash 2
+  - SNinja_nosword_jump 3
+  - SNinja_nosword_run 01
+  - SNinja_nosword_run 10
+  - SNinja_nosword_crouch 3
+  m_RenderDataMap: {}
+  m_Tag: Ninja
+  m_IsVariant: 0
